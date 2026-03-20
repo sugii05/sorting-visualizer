@@ -1,1 +1,0 @@
-print('Sorting Visualizer Starting...')
