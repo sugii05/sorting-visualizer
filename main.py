@@ -1,0 +1,1 @@
+print('Sorting Visualizer Starting...')
